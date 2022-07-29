@@ -9,7 +9,7 @@ I'm **Kenny**, Freelance fullstack web developer from **Perpignan, France**
 [![Gmail](https://user-images.githubusercontent.com/81420460/181799504-d13c44dc-c966-4efb-a0ec-0bf554675dbd.svg)](mailto:contact@webplayground.fr)
 
 ### Skills :
-  - 🚀 I use daily 
+  - #### 🚀 I use daily 
 ![JS](https://user-images.githubusercontent.com/81420460/181796463-746d7674-3deb-4a7b-8bb3-16f709462d92.svg)
 ![node](https://user-images.githubusercontent.com/81420460/181796502-499ab95a-7bc0-447d-a3df-c665dc218f24.svg)
 ![Express](https://user-images.githubusercontent.com/81420460/181802136-07e69dc8-24f0-4d6e-a69d-46f208042f6e.svg)
@@ -24,15 +24,15 @@ I'm **Kenny**, Freelance fullstack web developer from **Perpignan, France**
 ![Git](https://user-images.githubusercontent.com/81420460/181796746-6a4be655-2ce3-4e99-b145-af7920e58e71.svg)
 ![Github](https://user-images.githubusercontent.com/81420460/181796762-edad55c7-38a5-48eb-912f-a2f32004e587.svg)
 
-- ⚙️ I also use and work  
+- #### ⚙️ I also use and work  
 ![php](https://user-images.githubusercontent.com/81420460/181802441-70ba14c1-09f1-4a97-be05-edd8c41dc814.svg)
 ![Bootstrap](https://user-images.githubusercontent.com/81420460/181796581-70deaa7a-b689-43d2-bfda-4a4391a92086.svg)
 ![Mongo](https://user-images.githubusercontent.com/81420460/181796598-51612a2a-dcaa-40f9-9875-d0dc9343f562.svg)
 
-- 🌱 Learning
+- #### 🌱 Learning
 ![graphql](https://user-images.githubusercontent.com/81420460/181802209-8dce4726-583b-4ae0-9cde-6e0c43022f5f.svg)
 
-### ⚡️ Fun fact: I'm paramotorist
+- #### ⚡️ Fun fact: I'm paramotorist
  
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kenny-caldieraro&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
