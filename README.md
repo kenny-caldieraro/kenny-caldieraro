@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Kenny, Freelance full-stack web developer from :flag_fr: 
+I'm Kenny, Freelance full-stack web developer from ![download](https://user-images.githubusercontent.com/81420460/181794950-a43619da-343c-44a1-bfaf-f32aadc8b928.png)
+
 
 
 - ⚡ I love Flying, Gaming, Making
