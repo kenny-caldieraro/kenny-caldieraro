@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Kenny, Freelance full-stack web developer from :flag_fr: 
+
+
 - ⚡ I love Flying, Gaming, Making
 - 🔭 I’m currently working on AI
 - 🌱 I’m addicted to learning and growing every day
