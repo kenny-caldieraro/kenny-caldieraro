@@ -11,6 +11,7 @@ I'm **Kenny**, Freelance fullstack web developer from **Perpignan, France**
 ### Skills :
   - #### 🚀 I use daily 
 ![JS](https://user-images.githubusercontent.com/81420460/181796463-746d7674-3deb-4a7b-8bb3-16f709462d92.svg)
+![Typescript](https://camo.githubusercontent.com/8b76dad952a5f01b227f0fc83168009e115d7a0c5f9eca6ea918d6ae4e71b8ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074)
 ![node](https://user-images.githubusercontent.com/81420460/181796502-499ab95a-7bc0-447d-a3df-c665dc218f24.svg)
 ![Express](https://user-images.githubusercontent.com/81420460/181802136-07e69dc8-24f0-4d6e-a69d-46f208042f6e.svg)
 ![React](https://user-images.githubusercontent.com/81420460/181796535-9e715fd4-cef5-4fec-b1fa-75596ea60742.svg)
