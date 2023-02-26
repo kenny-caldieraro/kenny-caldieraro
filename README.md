@@ -10,7 +10,8 @@ I'm **Kenny**, Freelance fullstack web developer from **Perpignan, France**
 
 ### Mobile Store : 
 
-[![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)](https://play.google.com/store/apps/dev?id=4884574472501878076&hl=fr)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=4884574472501878076&hl=fr)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/fr/developer/kenny-caldieraro/id1670640548)
 
 ### Skills :
 
