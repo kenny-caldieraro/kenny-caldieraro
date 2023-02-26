@@ -8,6 +8,10 @@ I'm **Kenny**, Freelance fullstack web developer from **Perpignan, France**
 [![twitter](https://user-images.githubusercontent.com/81420460/181799135-ed551eb8-42e5-4829-be9c-24a77586c34e.svg)](https://twitter.com/CaldieraroK)
 [![Gmail](https://user-images.githubusercontent.com/81420460/181799504-d13c44dc-c966-4efb-a0ec-0bf554675dbd.svg)](mailto:contact@webplayground.fr)
 
+### Mobile Store : 
+
+[![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)](https://play.google.com/store/apps/dev?id=4884574472501878076&hl=fr)
+
 ### Skills :
 
 - #### 🚀 I use daily tools
