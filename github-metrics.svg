@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 27 Aug 2026, 10:35:38
+Last generated: 27 Aug 2026, 10:54:49
 </div>
 <div class="stdin"><span class="ps1-path">kenny-caldieraro@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>kenny</b> registered=5y, uid=0460, gid=0
   contributed to 13 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -64,14 +64,18 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── NOASSERTION
 </div>
-<div class="stdin"><span class="ps1-path">kenny-caldieraro@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C++         </b> [############        ] 58.05%
-<b>JAVASCRIPT  </b> [#########           ] 40.67%
-<b>PUG         </b> [#                   ] 0.77 %
-<b>EJS         </b> [#                   ] 0.51 %
+<div class="stdin"><span class="ps1-path">kenny-caldieraro@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>TYPESCRIPT  </b> [#######             ] 32.57%
+<b>JAVASCRIPT  </b> [####                ] 18.70%
+<b>CSS         </b> [####                ] 18.65%
+<b>HTML        </b> [##                  ] 9.16 %
+<b>C++         </b> [##                  ] 5.69 %
+<b>PHP         </b> [##                  ] 5.40 %
+<b>PLPGSQL     </b> [##                  ] 5.13 %
+<b>PYTHON      </b> [#                   ] 4.70 %
 </div>
 
 
-<footer>Connection reset by 180.247.17.49</footer></pre>
+<footer>Connection reset by 130.137.155.40</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
