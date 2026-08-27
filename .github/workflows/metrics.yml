@@ -1,0 +1,32 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # PAT classique (scope repo pour compter aussi le privé), à créer sur
+          # https://github.com/settings/tokens puis : gh secret set METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kenny-caldieraro
+          template: terminal
+          filename: github-metrics.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Paris
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_indepth: yes
+          plugin_languages_ignored: html, css, scss
+          # WakaTime (optionnel) : décommenter et ajouter le secret WAKATIME_TOKEN
+          # plugin_wakatime: yes
+          # plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          # plugin_wakatime_sections: time, projects, languages
