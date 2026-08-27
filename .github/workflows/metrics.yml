@@ -23,9 +23,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
           plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_indepth: yes
-          plugin_languages_ignored: html, css, scss
+          plugin_languages_limit: 12
           # WakaTime (optionnel) : décommenter et ajouter le secret WAKATIME_TOKEN
           # plugin_wakatime: yes
           # plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
